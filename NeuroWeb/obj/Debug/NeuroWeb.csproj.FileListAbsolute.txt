@@ -1,0 +1,5 @@
+C:\Users\Азат\Desktop\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.exe
+C:\Users\Азат\Desktop\NeuroWeb\NeuroWeb\bin\Debug\NeuroWeb.pdb
+C:\Users\Азат\Desktop\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.csprojResolveAssemblyReference.cache
+C:\Users\Азат\Desktop\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.exe
+C:\Users\Азат\Desktop\NeuroWeb\NeuroWeb\obj\Debug\NeuroWeb.pdb
